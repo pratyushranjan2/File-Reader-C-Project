@@ -1,0 +1,7 @@
+DL n=2
+format = edgelist1
+labels:
+jim, george
+data:
+1 2 5.3
+2 1 2.3
